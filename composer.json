@@ -1,0 +1,13 @@
+{
+    "name": "dimka1c/beejee.loc",
+    "require": {
+        "spatie/image": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "vendor\\": "vendor",
+            "app\\": "app"
+        }
+    }
+
+}

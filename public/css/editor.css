@@ -1,0 +1,16 @@
+.ck-editor__editable {
+    min-height: 200px;
+}
+.preview {
+    display: none;
+}
+.top {
+    margin-top: 10px;
+}
+.task-top {
+    background: #beccd6;
+    margin-top: 10px;
+}
+.task-content {
+    background: rgba(218, 233, 243, 0.4);
+}
